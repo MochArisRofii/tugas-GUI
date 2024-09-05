@@ -55,7 +55,7 @@ def on_enter(e):
     e.widget['background'] = '#007ACC'
 
 def on_leave(e):
-    e.widget['background'] = '#4CAF50'
+    e.widget['background'] = '#4CAF50' 
 
 # Membuat jendela utama
 root = tk.Tk()
